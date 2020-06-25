@@ -1,2 +1,2 @@
-# testreco
+# testrepo
 repo for test github
